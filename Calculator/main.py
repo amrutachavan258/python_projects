@@ -40,4 +40,3 @@ def calculate():
             print("\n" * 20)
             calculate()
 calculate()
-
